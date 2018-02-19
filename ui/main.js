@@ -21,7 +21,7 @@ img.onclick = function() {
 };
     
 var button = document.getElementById('counter');
-var countre = 0;
+var counter = 0;
 button.onclick = function() {
   //Render the variable in the correct span
   counter = counter + 1;
