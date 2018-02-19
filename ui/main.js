@@ -9,7 +9,7 @@ element.innerHTML = 'New Value';
 
 
 
-var img = document.getElementById('tree');
+var img = document.getElementById('madi');
 var marginLeft = 0;
 function moveright(){
     marginLeft = marginLeft + 1;
